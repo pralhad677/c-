@@ -1,0 +1,15 @@
+C:\Users\pralhad\Downloads\cSharpPractice\bin\Debug\net7.0\cSharpPractice.exe
+C:\Users\pralhad\Downloads\cSharpPractice\bin\Debug\net7.0\cSharpPractice.deps.json
+C:\Users\pralhad\Downloads\cSharpPractice\bin\Debug\net7.0\cSharpPractice.runtimeconfig.json
+C:\Users\pralhad\Downloads\cSharpPractice\bin\Debug\net7.0\cSharpPractice.dll
+C:\Users\pralhad\Downloads\cSharpPractice\bin\Debug\net7.0\cSharpPractice.pdb
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.csproj.AssemblyReference.cache
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.AssemblyInfoInputs.cache
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.AssemblyInfo.cs
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.dll
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\refint\cSharpPractice.dll
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.pdb
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\cSharpPractice.genruntimeconfig.cache
+C:\Users\pralhad\Downloads\cSharpPractice\obj\Debug\net7.0\ref\cSharpPractice.dll
